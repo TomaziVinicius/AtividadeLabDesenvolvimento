@@ -1,0 +1,14 @@
+C:\Users\pc\OneDrive\Área de Trabalho\Engenharia de Jhonson\Laboratório de Desenvolvimento de Jhonson\Exercícios práticos C#\Exercício24\bin\Debug\net10.0\Exercício24.exe
+C:\Users\pc\OneDrive\Área de Trabalho\Engenharia de Jhonson\Laboratório de Desenvolvimento de Jhonson\Exercícios práticos C#\Exercício24\bin\Debug\net10.0\Exercício24.deps.json
+C:\Users\pc\OneDrive\Área de Trabalho\Engenharia de Jhonson\Laboratório de Desenvolvimento de Jhonson\Exercícios práticos C#\Exercício24\bin\Debug\net10.0\Exercício24.runtimeconfig.json
+C:\Users\pc\OneDrive\Área de Trabalho\Engenharia de Jhonson\Laboratório de Desenvolvimento de Jhonson\Exercícios práticos C#\Exercício24\bin\Debug\net10.0\Exercício24.dll
+C:\Users\pc\OneDrive\Área de Trabalho\Engenharia de Jhonson\Laboratório de Desenvolvimento de Jhonson\Exercícios práticos C#\Exercício24\bin\Debug\net10.0\Exercício24.pdb
+C:\Users\pc\OneDrive\Área de Trabalho\Engenharia de Jhonson\Laboratório de Desenvolvimento de Jhonson\Exercícios práticos C#\Exercício24\obj\Debug\net10.0\Exercício24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Área de Trabalho\Engenharia de Jhonson\Laboratório de Desenvolvimento de Jhonson\Exercícios práticos C#\Exercício24\obj\Debug\net10.0\Exercício24.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Área de Trabalho\Engenharia de Jhonson\Laboratório de Desenvolvimento de Jhonson\Exercícios práticos C#\Exercício24\obj\Debug\net10.0\Exercício24.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Área de Trabalho\Engenharia de Jhonson\Laboratório de Desenvolvimento de Jhonson\Exercícios práticos C#\Exercício24\obj\Debug\net10.0\Exercício24.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Área de Trabalho\Engenharia de Jhonson\Laboratório de Desenvolvimento de Jhonson\Exercícios práticos C#\Exercício24\obj\Debug\net10.0\Exercício24.dll
+C:\Users\pc\OneDrive\Área de Trabalho\Engenharia de Jhonson\Laboratório de Desenvolvimento de Jhonson\Exercícios práticos C#\Exercício24\obj\Debug\net10.0\refint\Exercício24.dll
+C:\Users\pc\OneDrive\Área de Trabalho\Engenharia de Jhonson\Laboratório de Desenvolvimento de Jhonson\Exercícios práticos C#\Exercício24\obj\Debug\net10.0\Exercício24.pdb
+C:\Users\pc\OneDrive\Área de Trabalho\Engenharia de Jhonson\Laboratório de Desenvolvimento de Jhonson\Exercícios práticos C#\Exercício24\obj\Debug\net10.0\Exercício24.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Área de Trabalho\Engenharia de Jhonson\Laboratório de Desenvolvimento de Jhonson\Exercícios práticos C#\Exercício24\obj\Debug\net10.0\ref\Exercício24.dll

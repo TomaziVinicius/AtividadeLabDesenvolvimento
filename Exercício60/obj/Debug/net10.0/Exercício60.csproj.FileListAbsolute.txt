@@ -1,0 +1,14 @@
+C:\Users\pc\OneDrive\Área de Trabalho\Engenharia de Jhonson\Laboratório de Desenvolvimento de Jhonson\Exercícios práticos C#\Exercício60\bin\Debug\net10.0\Exercício60.exe
+C:\Users\pc\OneDrive\Área de Trabalho\Engenharia de Jhonson\Laboratório de Desenvolvimento de Jhonson\Exercícios práticos C#\Exercício60\bin\Debug\net10.0\Exercício60.deps.json
+C:\Users\pc\OneDrive\Área de Trabalho\Engenharia de Jhonson\Laboratório de Desenvolvimento de Jhonson\Exercícios práticos C#\Exercício60\bin\Debug\net10.0\Exercício60.runtimeconfig.json
+C:\Users\pc\OneDrive\Área de Trabalho\Engenharia de Jhonson\Laboratório de Desenvolvimento de Jhonson\Exercícios práticos C#\Exercício60\bin\Debug\net10.0\Exercício60.dll
+C:\Users\pc\OneDrive\Área de Trabalho\Engenharia de Jhonson\Laboratório de Desenvolvimento de Jhonson\Exercícios práticos C#\Exercício60\bin\Debug\net10.0\Exercício60.pdb
+C:\Users\pc\OneDrive\Área de Trabalho\Engenharia de Jhonson\Laboratório de Desenvolvimento de Jhonson\Exercícios práticos C#\Exercício60\obj\Debug\net10.0\Exercício60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Área de Trabalho\Engenharia de Jhonson\Laboratório de Desenvolvimento de Jhonson\Exercícios práticos C#\Exercício60\obj\Debug\net10.0\Exercício60.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Área de Trabalho\Engenharia de Jhonson\Laboratório de Desenvolvimento de Jhonson\Exercícios práticos C#\Exercício60\obj\Debug\net10.0\Exercício60.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Área de Trabalho\Engenharia de Jhonson\Laboratório de Desenvolvimento de Jhonson\Exercícios práticos C#\Exercício60\obj\Debug\net10.0\Exercício60.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Área de Trabalho\Engenharia de Jhonson\Laboratório de Desenvolvimento de Jhonson\Exercícios práticos C#\Exercício60\obj\Debug\net10.0\Exercício60.dll
+C:\Users\pc\OneDrive\Área de Trabalho\Engenharia de Jhonson\Laboratório de Desenvolvimento de Jhonson\Exercícios práticos C#\Exercício60\obj\Debug\net10.0\refint\Exercício60.dll
+C:\Users\pc\OneDrive\Área de Trabalho\Engenharia de Jhonson\Laboratório de Desenvolvimento de Jhonson\Exercícios práticos C#\Exercício60\obj\Debug\net10.0\Exercício60.pdb
+C:\Users\pc\OneDrive\Área de Trabalho\Engenharia de Jhonson\Laboratório de Desenvolvimento de Jhonson\Exercícios práticos C#\Exercício60\obj\Debug\net10.0\Exercício60.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Área de Trabalho\Engenharia de Jhonson\Laboratório de Desenvolvimento de Jhonson\Exercícios práticos C#\Exercício60\obj\Debug\net10.0\ref\Exercício60.dll
